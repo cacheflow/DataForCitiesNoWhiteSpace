@@ -1,7 +1,7 @@
 require "rake"
 
 task :default do
-	Rake::FileList.new("**/*rakefile*").each do |file|
+	Rake::FileList.new("**/*rb").each do |file|
 		ruby file 
 end
 end

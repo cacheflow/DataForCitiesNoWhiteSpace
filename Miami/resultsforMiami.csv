@@ -1,420 +1,72 @@
-"
-                    
-                        
-                            
-                        
-                        
-                            Alquileres 
-                        
-                    
-                ",406
-"
-                    
-                        
-                            
-                        
-                        
-                            Empleos Y Trabajos 
-                        
-                    
-                ",1301
-"
-                    
-                        
-                            
-                        
-                        
-                            Carros y Camionetas 
-                        
-                    
-                ",10021
-"
-                    
-                        
-                            
-                        
-                        
-                            Fiestas, Quinceañeras y Bodas 
-                        
-                    
-                ",222
-"
-                    
-                        
-                            
-                        
-                        
-                            Educación, Cursos y Clases Por Internet 
-                        
-                    
-                ",101
-"
-                    
-                        
-                            
-                        
-                        
-                            Casas de Venta 
-                        
-                    
-                ",181
-"
-                    
-                        
-                            
-                        
-                        
-                            Abogados y Servicios Legales 
-                        
-                    
-                ",58
-"
-                    
-                        
-                            
-                        
-                        
-                            Compra y Venta General 
-                        
-                    
-                ",463
-"
-                    
-                        
-                            
-                        
-                        
-                            Telecom y Equipo Digital 
-                        
-                    
-                ",679
-"
-                    
-                        
-                            
-                        
-                        
-                            Servicios del Hogar 
-                        
-                    
-                ",352
-"
-                    
-                        
-                            
-                        
-                        
-                            Préstamos 
-                        
-                    
-                ",185
-"
-                    
-                        
-                            
-                        
-                        
-                            Seguros 
-                        
-                    
-                ",23
-"
-                            
-                                Apartamentos 
-                            
-                        ",121
-"
-                            
-                                Casas para Alquilar 
-                            
-                        ",50
-"
-                            
-                                Cuartos Para Compartir 
-                            
-                        ",12
-"
-                            
-                                Cuartos Para Rentar 
-                            
-                        ",163
-"
-                            
-                                Townhouse-Condominos 
-                            
-                        ",8
-"
-                            
-                                Limpieza 
-                            
-                        ",199
-"
-                            
-                                Cuidado de Niños 
-                            
-                        ",128
-"
-                            
-                                Carpinteros y Construcción 
-                            
-                        ",42
-"
-                            
-                                Choferes y Troqueros 
-                            
-                        ",76
-"
-                            
-                                Trabajos en Hoteles 
-                            
-                        ",4
-"
-                            
-                                Toyota 
-                            
-                        ",100
-"
-                            
-                                Chevrolet 
-                            
-                        ",32
-"
-                            
-                                Ford en Venta 
-                            
-                        ",30
-"
-                            
-                                Nissan 
-                            
-                        ",32
-"
-                            
-                                Subastas de Autos 
-                            
-                        ",3
-"
-                            
-                                Comida Para Fiestas 
-                            
-                        ",18
-"
-                            
-                                Fotos y Video 
-                            
-                        ",42
-"
-                            
-                                Jumpers Y Brincolines 
-                            
-                        ",16
-"
-                            
-                                Limosinas 
-                            
-                        ",0
-"
-                            
-                                Salones de Fiestas 
-                            
-                        ",19
-"
-                            
-                                Clases por Internet 
-                            
-                        ",6
-"
-                            
-                                Career Colleges 
-                            
-                        ",0
-"
-                            
-                                Escuelas Técnicas 
-                            
-                        ",2
-"
-                            
-                                Cosmetología 
-                            
-                        ",5
-"
-                            
-                                Truck Driving School 
-                            
-                        ",0
-"
-                            
-                                Venta de Casas 
-                            
-                        ",52
-"
-                            
-                                Venta de Apartamentos 
-                            
-                        ",53
-"
-                            
-                                Venta de Casas Móviles 
-                            
-                        ",23
-"
-                            
-                                Ventas Comerciales 
-                            
-                        ",4
-"
-                            
-                                Venta de Condominios 
-                            
-                        ",13
-"
-                            
-                                Abogados de Accidentes 
-                            
-                        ",0
-"
-                            
-                                Abogados de Social Security 
-                            
-                        ",7
-"
-                            
-                                Abogados de Casos Criminales 
-                            
-                        ",0
-"
-                            
-                                Desalojos 
-                            
-                        ",0
-"
-                            
-                                Abogados de Inmigración 
-                            
-                        ",0
-"
-                            
-                                Mayoreo 
-                            
-                        ",189
-"
-                            
-                                Ropa en venta 
-                            
-                        ",114
-"
-                            
-                                Electrodomésticos 
-                            
-                        ",21
-"
-                            
-                                Colchones 
-                            
-                        ",1
-"
-                            
-                                Artículos Deportivos 
-                            
-                        ",3
-"
-                            
-                                Celulares 
-                            
-                        ",40
-"
-                            
-                                Satélite, Cable Y Dish 
-                            
-                        ",16
-"
-                            
-                                Reparaciones de Teléfono 
-                            
-                        ",3
-"
-                            
-                                Servicio de Internet 
-                            
-                        ",10
-"
-                            
-                                Sistemas de Seguridad 
-                            
-                        ",548
-"
-                            
-                                Servicios de Limpieza 
-                            
-                        ",71
-"
-                            
-                                Otros Servicios del Hogar 
-                            
-                        ",48
-"
-                            
-                                Ventanas y Puertas 
-                            
-                        ",36
-"
-                            
-                                Plomería 
-                            
-                        ",35
-"
-                            
-                                Construcción y Remodelaciones 
-                            
-                        ",34
-"
-                            
-                                Préstamos Personales 
-                            
-                        ",171
-"
-                            
-                                Préstamos para Negocios 
-                            
-                        ",9
-"
-                            
-                                Refinanciamientos 
-                            
-                        ",2
-"
-                            
-                                Préstamos para Casas 
-                            
-                        ",0
-"
-                            
-                                Préstamos para Autos 
-                            
-                        ",1
-"
-                            
-                                Seguros de Auto 
-                            
-                        ",4
-"
-                            
-                                Seguros de Casa 
-                            
-                        ",2
-"
-                            
-                                Seguros de Vida 
-                            
-                        ",1
-"
-                            
-                                Seguros de Salud 
-                            
-                        ",7
-"
-                            
-                                Seguros de Motocicleta 
-                            
-                        ",3
+Alquileres,1189
+Empleos Y Trabajos,1314
+Carros y Camionetas,10050
+"Fiestas, Quinceañeras y Bodas",225
+"Educación, Cursos y Clases Por Internet",105
+Casas de Venta,192
+Abogados y Servicios Legales,61
+Compra y Venta General,500
+Telecom y Equipo Digital,837
+Servicios del Hogar,414
+Préstamos,218
+Seguros,24
+Apartamentos,880
+Casas para Alquilar,46
+Cuartos Para Compartir,21
+Cuartos Para Rentar,173
+Townhouse-Condominos,8
+Limpieza,183
+Cuidado de Niños,124
+Carpinteros y Construcción,46
+Choferes y Troqueros,77
+Trabajos en Hoteles,6
+Toyota,106
+Chevrolet,30
+Ford en Venta,31
+Nissan,36
+Subastas de Autos,3
+Comida Para Fiestas,24
+Fotos y Video,35
+Jumpers Y Brincolines,16
+Limosinas,0
+Salones de Fiestas,16
+Clases por Internet,7
+Career Colleges,1
+Escuelas Técnicas,2
+Cosmetología,4
+Truck Driving School,0
+Venta de Casas,49
+Venta de Apartamentos,49
+Venta de Casas Móviles,23
+Ventas Comerciales,19
+Venta de Condominios,12
+Abogados de Accidentes,0
+Abogados de Social Security,7
+Abogados de Casos Criminales,0
+Desalojos,0
+Abogados de Inmigración,2
+Mayoreo,210
+Ropa en venta,121
+Electrodomésticos,19
+Colchones,4
+Artículos Deportivos,3
+Celulares,43
+"Satélite, Cable Y Dish",14
+Reparaciones de Teléfono,7
+Servicio de Internet,10
+Sistemas de Seguridad,716
+Servicios de Limpieza,85
+Otros Servicios del Hogar,62
+Construcción y Remodelaciones,42
+Reparaciones en General,37
+Plomería,33
+Préstamos Personales,201
+Préstamos para Negocios,11
+Refinanciamientos,2
+Préstamos para Casas,0
+Préstamos para Autos,1
+Seguros de Auto,4
+Seguros de Casa,2
+Seguros de Vida,1
+Seguros de Salud,8
+Seguros de Motocicleta,3

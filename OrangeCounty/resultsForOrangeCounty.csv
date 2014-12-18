@@ -1,420 +1,72 @@
-"
-                    
-                        
-                            
-                        
-                        
-                            Autos y Carros Nuevos y Usados 
-                        
-                    
-                ",1059
-"
-                    
-                        
-                            
-                        
-                        
-                            Empleos y Trabajos 
-                        
-                    
-                ",752
-"
-                    
-                        
-                            
-                        
-                        
-                            Abogados y Servicios Legales 
-                        
-                    
-                ",1025
-"
-                    
-                        
-                            
-                        
-                        
-                            Préstamos 
-                        
-                    
-                ",154
-"
-                    
-                        
-                            
-                        
-                        
-                            Educación, Cursos y Clases 
-                        
-                    
-                ",44
-"
-                    
-                        
-                            
-                        
-                        
-                            Rentas y Alquileres 
-                        
-                    
-                ",539
-"
-                    
-                        
-                            
-                        
-                        
-                            Seguros 
-                        
-                    
-                ",43
-"
-                    
-                        
-                            
-                        
-                        
-                            Fiestas, Quinceañeras y Bodas 
-                        
-                    
-                ",1153
-"
-                    
-                        
-                            
-                        
-                        
-                            Música para Fiestas 
-                        
-                    
-                ",423
-"
-                    
-                        
-                            
-                        
-                        
-                            Casas de Venta 
-                        
-                    
-                ",131
-"
-                    
-                        
-                            
-                        
-                        
-                            Compra y Venta General 
-                        
-                    
-                ",194
-"
-                    
-                        
-                            
-                        
-                        
-                            Telecom y Equipo Digital 
-                        
-                    
-                ",284
-"
-                            
-                                Subastas de Autos 
-                            
-                        ",7
-"
-                            
-                                Toyota Carros en Venta 
-                            
-                        ",50
-"
-                            
-                                Ford Dealer 
-                            
-                        ",94
-"
-                            
-                                Honda Dealer 
-                            
-                        ",46
-"
-                            
-                                Donaciones de Autos 
-                            
-                        ",0
-"
-                            
-                                Limpieza 
-                            
-                        ",87
-"
-                            
-                                Cuidado de Niños 
-                            
-                        ",23
-"
-                            
-                                Choferes y Troqueros 
-                            
-                        ",39
-"
-                            
-                                Meseros y Cocineros 
-                            
-                        ",47
-"
-                            
-                                Mecánica de Autos 
-                            
-                        ",3
-"
-                            
-                                Abogados de Accidentes 
-                            
-                        ",175
-"
-                            
-                                Abogado de Seguro Social 
-                            
-                        ",3
-"
-                            
-                                Abogados de Inmigración 
-                            
-                        ",67
-"
-                            
-                                Abogados Casos Criminales 
-                            
-                        ",96
-"
-                            
-                                Bancarrota 
-                            
-                        ",33
-"
-                            
-                                Préstamos Personales 
-                            
-                        ",79
-"
-                            
-                                Préstamos para Autos 
-                            
-                        ",52
-"
-                            
-                                Préstamos para Negocios 
-                            
-                        ",3
-"
-                            
-                                Consolidación de Deudas 
-                            
-                        ",0
-"
-                            
-                                Préstamos para Casas 
-                            
-                        ",9
-"
-                            
-                                Escuelas Técnicas 
-                            
-                        ",7
-"
-                            
-                                Cosmetología 
-                            
-                        ",3
-"
-                            
-                                Clases de Masaje 
-                            
-                        ",2
-"
-                            
-                                Career Colleges 
-                            
-                        ",3
-"
-                            
-                                Inglés y ESL 
-                            
-                        ",0
-"
-                            
-                                Apartamentos 
-                            
-                        ",402
-"
-                            
-                                Casa Para Rentar 
-                            
-                        ",36
-"
-                            
-                                Cuarto Para Rentar 
-                            
-                        ",69
-"
-                            
-                                Townhouse-Condo 
-                            
-                        ",3
-"
-                            
-                                Oficinas Para Aquilar 
-                            
-                        ",6
-"
-                            
-                                Seguros de Auto 
-                            
-                        ",35
-"
-                            
-                                Seguros de Vida 
-                            
-                        ",1
-"
-                            
-                                Seguros de Salud 
-                            
-                        ",4
-"
-                            
-                                Seguros de Casa 
-                            
-                        ",2
-"
-                            
-                                Seguros de Rentas 
-                            
-                        ",0
-"
-                            
-                                Salones de Fiestas 
-                            
-                        ",553
-"
-                            
-                                Jumpers Y Brincolines 
-                            
-                        ",224
-"
-                            
-                                Fotos y Video 
-                            
-                        ",75
-"
-                            
-                                Limosinas 
-                            
-                        ",39
-"
-                            
-                                Comida para Fiestas 
-                            
-                        ",91
-"
-                            
-                                Banda, Conjunto y Grupos 
-                            
-                        ",204
-"
-                            
-                                DJs 
-                            
-                        ",68
-"
-                            
-                                Mariachis y Tríos 
-                            
-                        ",32
-"
-                            
-                                Otras Músicas para Fiestas 
-                            
-                        ",3
-"
-                            
-                                Tamborazo y Norteño 
-                            
-                        ",116
-"
-                            
-                                Venta de Casas 
-                            
-                        ",50
-"
-                            
-                                Servicios de Termitas 
-                            
-                        ",0
-"
-                            
-                                Venta de Casas Móviles 
-                            
-                        ",12
-"
-                            
-                                Casas Reposeidas 
-                            
-                        ",17
-"
-                            
-                                Venta de Terrenos 
-                            
-                        ",2
-"
-                            
-                                Mayoreo 
-                            
-                        ",10
-"
-                            
-                                Muebles de Casa 
-                            
-                        ",75
-"
-                            
-                                Muebles de Oficina 
-                            
-                        ",1
-"
-                            
-                                Muebles de Patio 
-                            
-                        ",1
-"
-                            
-                                Compro Oro 
-                            
-                        ",2
-"
-                            
-                                Satélite, Cable y Dish 
-                            
-                        ",183
-"
-                            
-                                Sistemas de Seguridad 
-                            
-                        ",2
-"
-                            
-                                Servicio de Internet 
-                            
-                        ",26
-"
-                            
-                                Teléfonos 
-                            
-                        ",13
-"
-                            
-                                Celulares 
-                            
-                        ",9
+Autos y Carros Nuevos y Usados,961
+Empleos y Trabajos,617
+Abogados y Servicios Legales,953
+Préstamos,189
+"Educación, Cursos y Clases",45
+Rentas y Alquileres,181
+Seguros,46
+"Fiestas, Quinceañeras y Bodas",1092
+Música para Fiestas,617
+Casas de Venta,133
+Compra y Venta General,146
+Telecom y Equipo Digital,277
+Subastas de Autos,5
+Toyota Carros en Venta,55
+Ford Dealer,79
+Honda Dealer,53
+Donaciones de Autos,0
+Limpieza,44
+Cuidado de Niños,19
+Choferes y Troqueros,38
+Meseros y Cocineros,35
+Mecánica de Autos,6
+Abogados de Accidentes,194
+Abogado de Seguro Social,4
+Abogados de Inmigración,67
+Abogados Casos Criminales,94
+Bancarrota,28
+Préstamos Personales,106
+Préstamos para Autos,68
+Préstamos para Negocios,3
+Consolidación de Deudas,0
+Préstamos para Casas,5
+Escuelas Técnicas,4
+Cosmetología,8
+Clases de Masaje,0
+Career Colleges,2
+Inglés y ESL,0
+Apartamentos,52
+Casa Para Rentar,40
+Cuarto Para Rentar,53
+Townhouse-Condo,4
+Oficinas Para Aquilar,3
+Seguros de Auto,39
+Seguros de Vida,1
+Seguros de Salud,3
+Seguros de Casa,2
+Seguros de Rentas,0
+Salones de Fiestas,510
+Jumpers Y Brincolines,227
+Fotos y Video,54
+Limosinas,45
+Comida para Fiestas,78
+"Banda, Conjunto y Grupos",253
+DJs,90
+Mariachis y Tríos,81
+Otras Músicas para Fiestas,42
+Tamborazo y Norteño,151
+Venta de Casas,50
+Servicios de Termitas,0
+Venta de Casas Móviles,17
+Casas Reposeidas,13
+Venta de Terrenos,1
+Mayoreo,14
+Muebles de Casa,43
+Muebles de Oficina,1
+Muebles de Patio,1
+Compro Oro,1
+"Satélite, Cable y Dish",170
+Sistemas de Seguridad,4
+Servicio de Internet,29
+Teléfonos,8
+Celulares,3
